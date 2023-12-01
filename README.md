@@ -1,14 +1,12 @@
 # 👋 Hey! I Am Ashlynn
 - ## Profile Views :
 [![Profile views](https://komarev.com/ghpvc/?username=xD-Botzz&label=Profile%20views&style=for-the-badge)](https://github.com/Prime-Hritu)
-- 👀 I’m interested in coding and some android stuffs. 
-- 🌱 I’m currently learning Coding and web development.
 
 - ## Contact Me :
 - [![Contact Me On Telegram](https://img.shields.io/badge/Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Itz_Ashlynn)
 ==================================
 ### My GitHub Stats :
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Prime-Hritu&count_private=true&showicons=true&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Itz-Ashlynn&count_private=true&showicons=true&theme=tokyonight)]()
 
 ==================================
 ### Frequently Used Languages :
