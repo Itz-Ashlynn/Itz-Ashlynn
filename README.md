@@ -1,6 +1,6 @@
 # 👋 Hey! I Am Ashlynn
 - ## Profile Views :
-[![Profile views](https://komarev.com/ghpvc/?username=xD-Botzz&label=Profile%20views&style=for-the-badge)](https://github.com/Prime-Hritu)
+[![Profile views](https://komarev.com/ghpvc/?username=xD-Botzz&label=Profile%20views&style=for-the-badge)](https://github.com/Itz-Ashlynn)
 
 - ## Contact Me :
 - [![Contact Me On Telegram](https://img.shields.io/badge/Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Itz_Ashlynn)
