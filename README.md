@@ -5,6 +5,7 @@
 - ## Contact Me :
 - [![Contact Me On Telegram](https://img.shields.io/badge/Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Itz_Ashlynn)
 - [![My Botl](https://img.shields.io/badge/Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Royal_Ashlynn_Bot)
+- [![Contact Me On Linkedinl](https://img.shields.io/badge/Bot-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarabh/)
 - [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/aarabh/)
 ==================================
 ### My GitHub Stats :
